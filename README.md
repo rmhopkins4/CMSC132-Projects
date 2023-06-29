@@ -1,8 +1,7 @@
 # CMSC132-Projects
-Projects created as part of CMSC132 - Spring 2023.  
+Projects created as part of CMSC132 - Spring 2023 (1st Year) @ University of Maryland with Professor: Fawzi Emad
 
-Taken in my second semester at the University of Maryland, College Park.
-Professor: Fawzi Emad
+
 ## <a href="https://github.com/rmhopkins4/CMSC132-Projects/tree/main/1%20-%20Blackjack%20Game">Blackjack Game</a>
 
 ## <a href="https://github.com/rmhopkins4/CMSC132-Projects/tree/main/2%20-%20Minimum%20Snippet">Minimum Snippet</a>
